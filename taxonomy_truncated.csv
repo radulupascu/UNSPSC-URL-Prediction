@@ -1,0 +1,466 @@
+Family,Family Name
+1010,Live animals
+1011,Domestic pet products
+1012,Animal feed
+1013,Animal containment and habitats
+1014,Saddlery and harness goods
+1015,Seeds and bulbs and seedlings and cuttings
+1016,Floriculture and silviculture products
+1017,Fertilizers and plant nutrients and herbicides
+1019,Pest control products
+1020,Live rose bushes
+1021,Live plants of high species or variety count flowers
+1022,Live plants of low species or variety count flowers
+1023,Live chrysanthemums
+1024,Live carnations
+1025,Live orchids
+1030,Fresh cut rose
+1031,Fresh cut blooms of high species or variety count flowers
+1032,Fresh cut blooms of low species or variety count flowers
+1033,Fresh cut chrysanthemums
+1034,Fresh cut floral bouquets
+1035,Fresh cut carnations
+1036,Fresh cut orchids
+1040,Dried cut roses
+1041,Dried cut blooms of high species or variety count flowers
+1042,Dried cut blooms of low species or variety count flowers
+1043,Dried cut chrysanthemums
+1044,Dried cut carnations
+1045,Dried cut orchids
+1050,Fresh cut greenery
+1110,Minerals and ores and metals
+1111,Earth and stone
+1112,Non edible plant and forestry products
+1113,Non edible animal products
+1114,Scrap and waste materials
+1115,Fibers and threads and yarns
+1116,Fabrics and leather materials
+1117,Alloys
+1118,Metal oxide
+1119,Metal waste scrap and by products
+1213,Explosive materials
+1214,Elements and gases
+1216,Additives
+1217,Colorants
+1218,Waxes and oils
+1219,Solvents
+1235,Compounds and mixtures
+1236,Pharmaceutical drug precursors
+1310,Rubber and elastomers
+1311,Resins and rosins and other resin derived materials
+1410,Paper materials
+1411,Paper products
+1412,Industrial use papers
+1510,Fuels
+1511,Gaseous fuels and additives
+1512,Lubricants and oils and greases and anti corrosives
+1513,Fuel for nuclear reactors
+2010,Mining and quarrying machinery and equipment
+2011,Well drilling and operation equipment
+2012,Oil and gas drilling and exploration equipment
+2013,Oil and gas drilling and operation materials
+2014,Oil and gas operating and production equipment
+2110,Agricultural and forestry and landscape machinery and equipment
+2111,Fishing and aquaculture equipment
+2210,Heavy construction machinery and equipment
+2310,Raw materials processing machinery
+2311,Petroleum processing machinery
+2312,Textile and fabric machinery and accessories
+2313,Lapidary machinery and equipment
+2314,Leatherworking repairing machinery and equipment
+2315,Industrial process machinery and equipment and supplies
+2316,Foundry machines and equipment and supplies
+2318,Industrial food and beverage equipment
+2319,Mixers and their parts and accessories
+2320,Mass transfer equipment
+2321,Electronic manufacturing machinery and equipment and accessories
+2322,Chicken processing machinery and equipment
+2323,Sawmilling and lumber processing machinery and equipment
+2324,Metal cutting machinery and accessories
+2325,Metal forming machinery and accessories
+2326,Rapid prototyping machinery and accessories
+2327,Welding and soldering and brazing machinery and accessories and supplies
+2328,Metal treatment machinery
+2329,Industrial machine tools
+2330,Wire machinery and equipment
+2410,Material handling machinery and equipment
+2411,Containers and storage
+2412,Packaging materials
+2413,Industrial refrigeration
+2414,Packing supplies
+2510,Motor vehicles
+2511,Marine transport
+2512,Railway and tramway machinery and equipment
+2513,Aircraft
+2515,Spacecraft
+2516,Non motorized cycles
+2517,Transportation components and systems
+2518,Vehicle bodies and trailers
+2519,Transportation services equipment
+2520,Aerospace systems and components and equipment
+2610,Power sources
+2611,Batteries and generators and kinetic power transmission
+2612,Electrical wire and cable and harness
+2613,Power generation
+2614,Atomic and nuclear energy machinery and equipment
+2711,Hand tools
+2712,Hydraulic machinery and equipment
+2713,Pneumatic machinery and equipment
+2714,Automotive specialty tools
+3010,Structural components and basic shapes
+3011,Concrete and cement and plaster
+3012,Roads and landscape
+3013,Structural building products
+3014,Insulation
+3015,Exterior finishing materials
+3016,Interior finishing materials
+3017,Doors and windows and glass
+3018,Plumbing fixtures
+3019,Construction and maintenance support equipment
+3024,Portable Structure Building Components
+3025,Underground mining structures and materials
+3026,Structural materials
+3110,Castings and casting assemblies
+3111,Extrusions
+3112,Machined castings
+3113,Forgings
+3114,Moldings
+3115,Rope and chain and cable and wire and strap
+3116,Hardware
+3117,Bearings and bushings and wheels and gears
+3118,Packings glands boots and covers
+3119,Grinding and polishing and smoothing materials
+3120,Adhesives and sealants
+3121,Paints and primers and finishes
+3122,Dyeing and tanning extracts
+3123,Machined raw stock
+3124,Industrial optics
+3125,Pneumatic and hydraulic and electric control systems
+3126,Housings and cabinets and casings
+3127,Machine made parts
+3128,Stampings and sheet components
+3129,Machined extrusions
+3130,Machined forgings
+3131,Fabricated pipe assemblies
+3132,Fabricated bar stock assemblies
+3133,Fabricated structural assemblies
+3134,Fabricated sheet assemblies
+3135,Fabricated tube assemblies
+3136,Fabricated plate assemblies
+3137,Refractories
+3138,Magnets and magnetic materials
+3139,Machinings
+3140,Gaskets
+3141,Seals
+3142,Sintered parts
+3210,Printed circuits and integrated circuits and microassemblies
+3211,Discrete semiconductor devices
+3212,Passive discrete components
+3213,Electronic hardware and component parts and accessories
+3214,Electron tube devices and accessories
+3215,Automation control devices and components and accessories
+3910,Lamps and lightbulbs and lamp components
+3911,Lighting Fixtures and Accessories
+3912,Electrical equipment and components and supplies
+3913,Electrical wire management devices and accessories and supplies
+4010,Heating and ventilation and air circulation
+4014,Fluid and gas distribution
+4015,Industrial pumps and compressors
+4016,Industrial filtering and purification
+4017,Pipe piping and pipe fittings
+4018,Tubes tubing and tube fittings
+4110,Laboratory and scientific equipment
+4111,Measuring and observing and testing instruments
+4112,Laboratory supplies and fixtures
+4212,Veterinary equipment and supplies
+4213,Medical apparel and textiles
+4214,Patient care and treatment products and supplies
+4215,Dental equipment and supplies
+4216,Dialysis equipment and supplies
+4217,Emergency and field medical services products
+4218,Patient exam and monitoring products
+4219,Medical facility products
+4220,Medical diagnostic imaging and nuclear medicine products
+4221,Independent living aids for the physically challenged
+4222,Intravenous and arterial administration products
+4223,Clinical nutrition
+4224,Orthopedic and prosthetic and sports medicine products
+4225,Physical and occupational therapy and rehabilitation products
+4226,Postmortem and mortuary equipment and supplies
+4227,Respiratory and anesthesia and resuscitation products
+4228,Medical sterilization products
+4229,Surgical products
+4230,Medical training and education supplies
+4231,Wound care products
+4232,Orthopedic surgical implants
+4319,Communications Devices and Accessories
+4320,Components for information technology or broadcasting or telecommunications
+4321,Computer Equipment and Accessories
+4322,Data Voice or Multimedia Network Equipment or Platforms and Accessories
+4323,Software
+4410,Office machines and their supplies and accessories
+4411,Office and desk accessories
+4412,Office supplies
+4510,Printing and publishing equipment
+4511,Audio and visual presentation and composing equipment
+4512,Photographic or filming or video equipment
+4513,Photographic and recording media
+4514,Photographic filmmaking supplies
+4610,Light weapons and ammunition
+4611,Conventional war weapons
+4612,Missiles
+4613,Rockets and subsystems
+4614,Launchers
+4615,Law enforcement
+4616,Public safety and control
+4617,Security surveillance and detection
+4618,Personal safety and protection
+4619,Fire protection
+4620,Defense and law enforcement and security and safety training equipment
+4621,Workplace safety equipment and supplies and training materials
+4622,Military weapon and ammunition disarmament and disposal equipment and related products
+4710,Water and wastewater treatment supply and disposal
+4711,Industrial laundry and dry cleaning equipment
+4712,Janitorial equipment
+4713,Cleaning and janitorial supplies
+4810,Institutional food services equipment
+4811,Vending machines
+4812,Gambling or wagering equipment
+4813,Funeral equipment and materials
+4910,Collectibles and awards
+4912,Camping and outdoor equipment and accessories
+4913,Fishing and hunting equipment
+4914,Watersports equipment
+4915,Winter sports equipment
+4916,Field and court sports equipment
+4917,Gymnastics and boxing equipment
+4918,Target and table games and equipment
+4920,Fitness equipment
+4921,Other sports
+4922,Sports equipment and accessories
+4924,Recreation and playground and swimming and spa equipment and supplies
+5010,Nuts and seeds
+5011,Meat and poultry products
+5012,Seafood
+5013,Dairy products and eggs
+5015,Edible oils and fats
+5016,Chocolate and sugars and sweeteners and confectionary products
+5017,Seasonings and preservatives
+5018,Bread and bakery products
+5019,Prepared and preserved foods
+5020,Beverages
+5021,Tobacco and smoking products and substitutes
+5022,Cereal and pulse products
+5030,Fresh fruits
+5031,Organic fresh fruits
+5032,Dried fruit
+5033,Dried organic fruit
+5034,Frozen fruit
+5035,Frozen organic fruit
+5036,Canned or jarred fruit
+5037,Canned or jarred organic fruit
+5038,Fresh fruit purees
+5039,Organic fresh fruit purees
+5040,Fresh vegetables
+5041,Organic fresh vegetables
+5042,Dried vegetables
+5043,Dried organic vegetables
+5044,Frozen vegetables
+5045,Frozen organic vegetables
+5046,Canned or jarred vegetables
+5047,Canned or jarred organic vegetables
+5048,Fresh vegetable purees
+5049,Organic fresh vegetable purees
+5050,Nutritional supplements
+5052,Non GMO fresh fruits
+5053,Dried non GMO fruits
+5054,Frozen non GMO fruits
+5055,Canned or jarred non GMO fruits
+5056,Non GMO fresh fruit purees
+5058,Non GMO fresh vegetables
+5059,Dried Non GMO vegetables
+5060,Frozen Non GMO vegetables
+5061,Canned or jarred Non GMO vegetables
+5062,Non GMO fresh vegetable purees
+5110,Amebicides and trichomonacides and antiprotozoals
+5111,Antineoplastic agents
+5112,Antiarrythmics and antianginals and cardioplegics and drugs for heart failure
+5113,Hematolic drugs
+5114,Central nervous system drugs
+5115,Autonomic nervous system drugs
+5116,Drugs affecting the respiratory tract
+5117,Drugs affecting the gastrointestinal system
+5118,Hormones and hormone antagonists
+5119,Agents affecting water and electrolytes
+5120,Immunomodulating drugs
+5124,"Drugs affecting the ears, eye, nose and skin"
+5126,Adrenergic blocking agents
+5127,Anaesthetic drugs and related adjuncts and analeptics
+5128,Antibacterials
+5129,Antidepressants
+5130,Antifungal drugs
+5131,Antihistamines or H1 blockers
+5132,Antihyperlipidemic and hypocholesterolemic agents
+5133,Antipsychotics
+5134,Antiviral drugs
+5135,Estrogens and progestins and internal contraceptives
+5136,Hypnotics
+5137,Controlled substance analgesics
+5138,Nonsteroidal anti inflammatory drugs NSAIDs
+5139,Sympathomimetic or adrenergic drugs
+5140,Tranquilizers and antimanic and antianxiety drugs
+5141,Vasodilators
+5142,Corticosteroids
+5143,Antihypertensive drugs
+5144,Radiopharmaceuticals and contrast media
+5145,Anthelmintics
+5146,Herbal drugs
+5147,Antiseptics
+5210,Floor coverings
+5212,Bedclothes and table and kitchen linen and towels
+5213,Window treatments
+5214,Domestic appliances
+5215,Domestic kitchenware and kitchen supplies
+5216,Consumer electronics
+5217,Domestic wall treatments
+5310,Clothing
+5311,Footwear
+5312,Luggage and handbags and packs and cases
+5313,Personal care products
+5314,Sewing supplies and accessories
+5410,Jewelry
+5411,Timepieces
+5412,Gemstones
+5510,Printed media
+5511,Electronic reference material
+5512,Signage and accessories
+5610,Accommodation furniture
+5611,Commercial and industrial furniture
+5612,Classroom and instructional and institutional furniture and fixtures
+5613,Merchandising furniture and accessories
+5614,Decorative adornments
+6010,Developmental and professional teaching aids and materials and accessories and supplies
+6011,Classroom decoratives and supplies
+6012,Arts and crafts equipment and accessories and supplies
+6013,Musical Instruments and parts and accessories
+6014,Toys and games
+6410,Bank offered products
+6411,Securities
+6412,Insurable interest contracts
+6413,General agreements and contracts
+6414,Governmental property right conferrals
+7010,Fisheries and aquaculture
+7011,Horticulture
+7012,Livestock services
+7013,Land and soil preparation and management and protection
+7014,Crop production and management and protection
+7015,Forestry
+7016,Wildlife and flora
+7017,Water resources development and oversight
+7110,Mining services
+7111,Oil and gas exploration services
+7112,Well drilling and construction services
+7113,Oil and gas extraction and production enhancement services
+7114,Oil and gas restoration and reclamation services
+7115,Oil and gas data management and processing services
+7116,Oil and gas well project management services
+7210,Building and facility maintenance and repair services
+7211,Residential building construction services
+7212,Nonresidential building construction services
+7214,Heavy construction services
+7215,Specialized trade construction and maintenance services
+7310,Plastic and chemical industries
+7311,Wood and paper industries
+7312,Metal and mineral industries
+7313,Food and beverage industries
+7314,Fibers and textiles and fabric industries
+7315,Manufacturing support services
+7316,Machinery and transport equipment manufacture
+7317,Manufacture of electrical goods and precision instruments
+7318,Machining and processing services
+7610,Decontamination services
+7611,Cleaning and janitorial services
+7612,Refuse disposal and treatment
+7613,Toxic and hazardous waste cleanup
+7710,Environmental management
+7711,Environmental protection
+7712,Pollution tracking and monitoring and rehabilitation
+7713,Pollutants tracking and monitoring and rehabilitation services
+7810,Mail and cargo transport
+7811,Passenger transport
+7812,Material packing and handling
+7813,Storage
+7814,Transport services
+7818,Transportation repair or maintenance services
+8010,Management advisory services
+8011,Human resources services
+8012,Legal services
+8013,Real estate services
+8014,Marketing and distribution
+8015,Trade policy and services
+8016,Business administration services
+8017,Public relations and professional communications services
+8110,Professional engineering services
+8111,Computer services
+8112,Economics
+8113,Statistics
+8114,Manufacturing technologies
+8115,Earth science services
+8116,Information Technology Service Delivery
+8117,Biological science services
+8210,Advertising
+8211,Writing and translations
+8212,Reproduction services
+8213,Photographic services
+8214,Graphic design
+8215,Professional artists and performers
+8216,Film and theater production support services
+8310,Utilities
+8311,Telecommunications media services
+8312,Information services
+8410,Development finance
+8411,Accounting and bookkeeping services
+8412,Banking and investment
+8413,Insurance and retirement services
+8414,Credit agencies
+8510,Comprehensive health services
+8511,Disease prevention and control
+8512,Medical practice
+8513,Medical science research and experimentation
+8514,Alternative and holistic medicine
+8515,Food and nutrition services
+8516,Medical Surgical Equipment Maintenance Refurbishment and Repair Services
+8517,Death and dying support services
+8610,Vocational training
+8611,Alternative educational systems
+8612,Educational institutions
+8613,Specialized educational services
+8614,Educational facilities
+9010,Restaurants and catering
+9011,Hotels and lodging and meeting facilities
+9012,Travel facilitation
+9013,Performing arts
+9014,Commercial sports
+9015,Entertainment services
+9110,Personal appearance
+9111,Domestic and personal assistance
+9210,Public order and safety
+9211,Military services and national defense
+9212,Security and personal safety
+9310,Political systems and institutions
+9311,Socio political conditions
+9312,International relations
+9313,Humanitarian aid and relief
+9314,Community and social services
+9315,Public administration and finance services
+9316,Taxation
+9317,Trade policy and regulation
+9410,Work related organizations
+9411,Religious organizations
+9412,Clubs
+9413,Civic organizations and associations and movements
+9510,Land parcels
+9511,Thoroughfares
+9512,Permanent buildings and structures
+9513,Portable buildings and structures
+9514,Prefabricated buildings and structures
